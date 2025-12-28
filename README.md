@@ -16,4 +16,4 @@ add the bot to your server
 
 ### 4.
 
-message the bot with /jokes command
+message the bot with /jokes command \(cringe warning\)
